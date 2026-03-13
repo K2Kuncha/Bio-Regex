@@ -1,5 +1,5 @@
 # =========================================================================
-# MODULE 3: Identifier Normalization
+# MODULE 4: Identifier Normalization
 # AUTHOR: Kuncha Shashidhar
 # 
 # 🧬 ABOUT THE DATA:

@@ -1,0 +1,21 @@
+# Bioinformatics Raw Data
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.sam
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.bed
+
+# Massive Count Matrices
+*.tsv
+*.mtx
+
+# R Environment Files (Prevents uploading your local R workspace)
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
